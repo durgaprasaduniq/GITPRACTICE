@@ -56,5 +56,12 @@ NOW
   
 21 ] git reset --hard commit id [ new file means delete the file and content & existing file means remove the only content and commit ]
 22 ] git reset --mixed commit id [ local rep to working space and commit remove in this command ]                                command use means take down commit id   
-23 ] git reset --soft commit id [ local repo to staging area and commit remove] 
+23 ] git reset --soft commit id [ local repo to staging area and commit remove]
+
+24] git clean -f [ delete the untracked files in local repo ]
+
+25] git .gitignore [ which files not pushed in remote repos ]
+
+26] git push origin --delete branch name
+
   
