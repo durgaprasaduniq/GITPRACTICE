@@ -60,8 +60,9 @@ NOW
 
 24] git clean -f [ delete the untracked files in local repo ]
 
-25] git .gitignore [ which files not pushed in remote repos ]
+25].gitignore [ which files not pushed in remote repos ]
 
 26] git push origin --delete branch name
 
   
+
