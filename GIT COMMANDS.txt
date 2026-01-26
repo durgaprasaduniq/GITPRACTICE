@@ -62,7 +62,7 @@ NOW
 
 25].gitignore [ which files not pushed in remote repos ]
 
-26] git push origin --delete branch name
+26] git push origin --delete branch name [ BRANCH DELETE IN REMOTE REPO ]
 
   
 
